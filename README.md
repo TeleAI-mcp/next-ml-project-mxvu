@@ -1,2 +1,3 @@
-# next-ml-project-mxvu
-Automated issue comment bot repository
+# Next Ml Project Mxvu
+
+Automated issue comment bot repository.
